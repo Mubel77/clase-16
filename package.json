@@ -1,0 +1,14 @@
+{
+  "name": "dh-heroes",
+  "version": "1.0.0",
+  "description": "Este sitio busca mostrar de manera simple la información de las Heroínas y los Héroes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "grupo8-comision23",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
